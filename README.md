@@ -7,3 +7,5 @@ This is awesome project.
 # Author
 ---
 [Author](https://github.com/vvlv-av)
+
+## Conflict
