@@ -1,6 +1,6 @@
 # Project
 
-This is awesome project.
+### Ссылка на [Wiki](https://github.com/vvlv-av/project/wiki)
 
 ## How to start
 
